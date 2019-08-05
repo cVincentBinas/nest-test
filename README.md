@@ -47,6 +47,13 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Debug
+
+```bash
+# run with debug
+$ npm run debug
+```
+
 ## Test
 
 ```bash
